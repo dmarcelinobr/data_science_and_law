@@ -1,2 +1,2 @@
 # data_science_and_law
-Codes and materials for the topic of data science and law
+Source codes and other materials for the topic of data science and law
